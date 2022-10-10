@@ -1,0 +1,1 @@
+<footer style="text-align: center; width: 100%"> Pé </footer>
